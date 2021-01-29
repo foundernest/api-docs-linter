@@ -1,0 +1,29 @@
+{
+  "name": "openapi-sync",
+  "version": "0.1.0",
+  "description": "CLI tool to increase visibility over Open API docs by comparing them to an actual express implementation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foundernest/openapi-sync.git"
+  },
+  "keywords": [
+    "openapi",
+    "lint",
+    "diff",
+    "endpoint",
+    "express",
+    "node",
+    "npm",
+    "cli"
+  ],
+  "author": "FounderNest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foundernest/openapi-sync/issues"
+  },
+  "homepage": "https://github.com/foundernest/openapi-sync#readme"
+}
